@@ -1,0 +1,47 @@
+
+
+.row1{
+    display: flex;
+    border-bottom: 15px solid whitesmoke;
+}
+
+.header{
+    width: 1500px;
+    height: 200px;
+    background-color: rgb(192, 226, 43);
+    font-size: 20px;
+    padding-top: 30px;
+}
+.ads{
+    border-left: 15px solid whitesmoke;
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    background-color: rgb(192, 226, 43);
+    padding-top: 30px;
+
+}
+
+.nav{
+    width: 250px;
+    height: 615px;
+    background-color: rgb(192, 226, 43);
+    border-right: 15px solid whitesmoke;
+
+}
+.row2{
+    display: flex;
+}
+
+.article{
+    width: 1246px;
+    height: 400px;
+    background-color: rgb(192, 226, 43);
+}
+.footer{
+    border-top: 15px solid whitesmoke;
+    width: 1246px;
+    height: 200px;
+    background-color: rgb(192, 226, 43);
+
+}
